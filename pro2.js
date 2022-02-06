@@ -63,6 +63,5 @@ if(placarjogador < placarpc){
   console.log("Parabéns você foi o ganhardor")
 }else console.log("A partida terminou empatada.")
 replay = prompt('Gostaria de Jogar novamente? ')
-  console.log('oi');
 }  
 while(replay == "sim")
